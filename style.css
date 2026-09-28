@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff0f3;
+    color: #590d22;
+    text-align: center;
+    padding: 2rem;
+    margin: 0;
+}
+ 
+.card {
+    background: white;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+ 
+h1 {
+    color: #a4133c;
+    margin-bottom: 0.5rem;
+}
+
+h2{
+    color: blue;
+}
+ 
+.divider {
+    border: 0;
+    border-top: 1px solid #ffb3c1;
+    margin: 1.5rem 0;
+}
+ 
+ul {
+    text-align: left;
+    line-height: 1.8;
+}
+ 
+.fact {
+    font-weight: bold;
+    color: #c9184a;
+}
