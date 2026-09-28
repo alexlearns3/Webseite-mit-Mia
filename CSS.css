@@ -20,6 +20,10 @@ h1 {
     color: #a4133c;
     margin-bottom: 0.5rem;
 }
+
+h2{
+    color: blue;
+}
  
 .divider {
     border: 0;
